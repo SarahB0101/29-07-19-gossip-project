@@ -22,6 +22,10 @@ The Gossip Project, construit par Sarah Bouchir
 Créer un Gossip et l'ajouter en base de données
 --> Gossip.new(gossip_author,gossip_content).save
 
+5. dossier views 
+affichage de nos pages
+
+
 
 
 GET : lecture
