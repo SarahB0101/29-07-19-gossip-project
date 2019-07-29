@@ -30,6 +30,8 @@ class ApplicationController < Sinatra::Base #nous avons créé une classe Applic
   		Gossip.update(params['id'], params["gossip_author"], params["gossip_content"])
   		redirect '/'
   	end
+
+
 end
 
 
